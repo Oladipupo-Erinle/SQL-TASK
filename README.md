@@ -57,35 +57,37 @@ The following information was also provided:
 
 ## Task Two: Retrieving data from the database:
 
-•	Select the employee table and show the data where the city is Mumbai and Delhi. 
+	# Select the employee table and show the data where the city is Mumbai and Delhi. 
 
 ![ ](TSK2A.jpg)
-•	Select the employee table where the employee’s first name has both ‘a’ and ‘e’ in them.
+
+	# Select the employee table where the employee’s first name has both ‘a’ and ‘e’ in them.
 
  ![ ](TSK2B.jpg)
  
-•	Subset the employee table to have employees with date of birth above 1990
+	# Subset the employee table to have employees with date of birth above 1990
 
 ![ ](TSK2C.jpg)
 
-•	Subset the salary table to show salaries less than 1 million and sort in an ascending order
+	# Subset the salary table to show salaries less than 1 million and sort in an ascending order
 
 ![ ](TSK2D.jpg)
 
-•	Modify email column of the employee table to contain just email without ‘@gmail.com’
+	# Modify email column of the employee table to contain just email without ‘@gmail.com’
 
 ![ ](TSK2E.jpg)
 
 ## Task Three: Aggregate function 
 
-•	What is the total number of employees in our employee table??
+	# What is the total number of employees in our employee table??
 
 ![ ](TSK3A.jpg)
 
-•	Find out the top 5 cities with the highest number of employees, then filter the result to show cities with more than 15 employees.
+ 	# Find out the top 5 cities with the highest number of employees, then filter the result to show cities with more than 15 employees.
+  
 ![ ](TSK3B.jpg)
 
-•	Find out the most used pin code by the employee
+	# Find out the most used pin code by the employee
 
 ![ ](TSK3C.jpg)
 
