@@ -46,47 +46,46 @@ The following information was also provided:
 •	Find out the most used pin code by the employee
 
 ## Skill/Concepts Demonstrated
-1.	Data Management
-2.	
-3.	Data Retrieving
-4.	
+1.	Data Management	
+2.	Data Retrieving
+3.		
 ## Task one: Create a Database
 
-![ ](TSK1A.img)
+![ ](TSK1A.jpg)
 
-![ ](TSK1B.img)
+![ ](TSK1B.jpg)
 
 ## Task Two: Retrieving data from the database:
 
 •	Select the employee table and show the data where the city is Mumbai and Delhi. 
 
-![ ](TSK2A.img)
+![ ](TSK2A.jpg)
 •	Select the employee table where the employee’s first name has both ‘a’ and ‘e’ in them.
 
- ![ ](TSK2B.img)
+ ![ ](TSK2B.jpg)
  
 •	Subset the employee table to have employees with date of birth above 1990
 
-![ ](TSK2C.img)
+![ ](TSK2C.jpg)
 
 •	Subset the salary table to show salaries less than 1 million and sort in an ascending order
 
-![ ](TSK2D.img)
+![ ](TSK2D.jpg)
 
 •	Modify email column of the employee table to contain just email without ‘@gmail.com’
 
-![ ](TSK2E.img)
+![ ](TSK2E.jpg)
 
 ## Task Three: Aggregate function 
 
 •	What is the total number of employees in our employee table??
 
-![ ](TSK3A.img)
+![ ](TSK3A.jpg)
 
 •	Find out the top 5 cities with the highest number of employees, then filter the result to show cities with more than 15 employees.
-![ ](TSK3B.img)
+![ ](TSK3B.jpg)
 
 •	Find out the most used pin code by the employee
 
-![ ](TSK3C.img)
+![ ](TSK3C.jpg)
 
