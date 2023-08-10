@@ -48,7 +48,7 @@ The following information was also provided:
 ## Skill/Concepts Demonstrated
 1.	Data Management	
 2.	Data Retrieving
-3.		
+     
 ## Task one: Create a Database
 
 ![ ](TSK1A.jpg)
@@ -57,7 +57,7 @@ The following information was also provided:
 
 ## Task Two: Retrieving data from the database:
 
-	# Select the employee table and show the data where the city is Mumbai and Delhi. 
+	Select the employee table and show the data where the city is Mumbai and Delhi
 
 ![ ](TSK2A.jpg)
 
